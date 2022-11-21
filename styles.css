@@ -1,0 +1,179 @@
+body{
+    background-color: #fff;
+}
+img{
+    height: 200px;
+    width: 200px;
+   
+}
+p{
+    font-family: 'Roboto', sans-serif;
+   
+}
+h2{
+    font-family: 'Roboto-Bold', sans-serif;
+    color: #7D5A50;
+    
+    
+
+}
+em{
+    font-family: 'Roboto-Bold', sans-serif;
+    color:#7D5A50;
+    
+
+}
+
+/* title section */
+.navigation-container{
+    background-color: #967E76;
+}
+.navbar{
+    padding: 0 0 0 0;  
+}
+#navbarSupporteContent{
+    padding:5% auto 5% auto;
+}
+.navigation-text{
+    display: inline-block;
+    text-align: right;
+    padding-right: 2rem;    
+}
+.dropdown-item{
+    background-color: #E8DFCA;
+}
+.dropdown-menu{
+    padding:0px;
+}
+.navbar-right-stuff{
+    color:#fff;
+}
+.navbar-brand{
+    padding:1.5rem 0px 1.5rem 0px;
+}
+.top-banner{
+    background-color:#967E76;
+    height:200px;
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+}
+.heading-manager{
+    margin:50px auto;
+    padding-left: 100px;
+    padding-right: 300px;
+    color: #fff;
+}
+.headtwo{
+    text-align: right;
+    padding-right: 0%;
+}
+@media screen and (max-width: 1000px) {
+    .imageprofile{
+        display: none;
+    }
+    .headtwo{
+        display:none;
+    }
+    .bio-text{
+        font-size: 12px;
+    }
+  }
+  .imageprofile{
+    float: right;
+  }
+  .content_text{
+    display: inline-block;
+    margin-top: 3rem;
+    margin-right: 2rem;
+    line-height: 1;
+    color:#fff;
+    
+  }
+  /* Experience */
+  #experience{
+    height: 28.12rem;
+  }
+  .experiences{
+    height: 550px;
+    background-color: #FCDEC0;
+  }
+  #testimonial-carousal{
+    height: 400px;
+  }
+  .experience-item{
+    padding-top: 4%;
+    padding-left: 200px;
+    padding-right: 200px;
+    text-align: center;
+  }
+  .testimonial-text{
+    color:#000;
+
+  }
+  .bio-text{
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-bottom: 10%;
+  }
+  .arrows, .carousel-control-prev{
+    color: #7D5A50;
+   width: 100px;
+   height: 100px;
+   margin-top:17rem
+   
+ 
+  }
+  /* Pricing section */
+  .pricing-text{
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 10px;
+    margin-top: 10%;
+  }
+.pricing-cards{
+    padding-top: 5%;
+    margin-bottom: 20px;
+}
+#pricing{
+    background-color:#fff ;
+}
+.money{
+    color: #5F8D4E;
+    padding-bottom: 10px;
+}
+.moneybuttons{
+    padding-left: 2%;
+    border-radius: 0%;
+    width: 100%;
+}
+.card-title{
+    padding: 2% auto 2% auto;
+}
+/* The Footer */
+.footer-end{
+    background-color:#967E76 ;
+    text-align: left;
+    padding: 2% 5% 0 0;
+    line-height: 2;
+    margin-left: 10px;
+}
+.icony{
+    color:white;
+    margin: 2%;
+}
+.finalthing{
+    color: white;
+    margin-top: 2%;
+    padding-left: 5px;
+}
+.motto{
+    padding: 2%;
+    font-weight: lighter;
+    color:#fff;
+}
+.contactme{
+    color:#fff;
+    
+
+}
